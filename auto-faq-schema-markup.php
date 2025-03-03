@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Auto FAQ Schema Markup
  * Description: Automatically adds FAQ schema markup to pages that have FAQ posts.
- * Version: 1.2
- * Author: Your Name
+ * Version: 1.0
+ * Author: Keshav Bhutra
  */
 
 // Global array to collect FAQ post IDs from all queries.
